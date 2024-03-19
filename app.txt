@@ -20,9 +20,10 @@ git status
 
 git log --all --oneline
 git log --all --oneline --graph
-: commit 기록 한눈에 파악하고 싶을때
+: commit 기록 한눈에 파악하고 싶을때   
 
-ddddd
+git diff
+:방금전 commit 한 데이타와 그전 commit 한 데이타의 차이점을 보여준다.
 
 
 
