@@ -22,5 +22,7 @@ git log --all --oneline
 git log --all --oneline --graph
 : commit 기록 한눈에 파악하고 싶을때
 
+ddddd
+
 
 
