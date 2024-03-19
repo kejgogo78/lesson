@@ -25,5 +25,6 @@ git log --all --oneline --graph
 git diff
 :방금전 commit 한 데이타와 그전 commit 한 데이타의 차이점을 보여준다.
 
+왜 저장이 된거야?
 
 
