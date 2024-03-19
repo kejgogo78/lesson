@@ -1,11 +1,23 @@
 터미널 열기
+
 git init
+:git 환경을 만들어준다.
+
 git add app.txt
+:스테이징 한다. 
+
 git commit -m '데이타 만들었음 버전1'
+:레파지토리에 올린다.
+
 git add app.txt app2.txt
+:app.txt 와 app2.txt를 스테이징 한다.
+
 git add .
+: 전체 파일 추가
+
 git status
-: 스테이징 된 파일을 표시해준다.
+: 스테이징 된 파일을 표시해준다.->commit 가능한 파일을 보여준다.
+
 git log --all --oneline
 git log --all --oneline --graph
 : commit 기록 한눈에 파악하고 싶을때
