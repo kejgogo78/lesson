@@ -1,4 +1,4 @@
-메인브랜치에서 코드 수정합~~
+main에서 coupon을 merge해서 수정한 코드입니다.
 터미널 열기
 
 git init
