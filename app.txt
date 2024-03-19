@@ -25,6 +25,8 @@ git log --all --oneline --graph
 git diff
 :방금전 commit 한 데이타와 그전 commit 한 데이타의 차이점을 보여준다.
 
-왜 저장이 된거야?
+git difftool
+: 그래픽화해서 차이점 보여줌
 
-
+git difftool 커밋아이디1 커밋아이디2
+: 특정커밋 vs 특정커밋 비교가능
