@@ -1,4 +1,14 @@
-dfsdfsdfsdfsdf
-ㅇㄹㄴㅇㄹㄴㅇ
-ㄹㄴㅇㄹ
-ㅇㄴㄹ
+터미널 열기
+git init
+git add app.txt
+git commit -m '데이타 만들었음 버전1'
+git add app.txt app2.txt
+git add .
+git status
+: 스테이징 된 파일을 표시해준다.
+git log --all --oneline
+git log --all --oneline --graph
+: commit 기록 한눈에 파악하고 싶을때
+
+
+
