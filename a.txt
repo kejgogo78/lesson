@@ -5,3 +5,4 @@ sdf
 def
 dfksldfks;ldfk;sdkfl;
 fksjflsdjf
+여기도 충돌확인 요함
